@@ -13,6 +13,8 @@ main {
   --columns: 16;
 }
 section,
+#inside article,
+#inside aside,
 #devs li {
     --width: 16;
     --gap-constant: 0.3%;
